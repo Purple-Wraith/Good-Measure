@@ -22,8 +22,8 @@ Link in bio to check your date.
 
 Pricing built for small guest lists, not banquet halls.
 
-Intimate Gathering — $350, 15 guests or fewer, a custom signature drink designed with you
-Small Parties — $600, up to 30 guests, two signature drinks
+Intimate Gathering — $250, 15 guests or fewer, 3 signature cocktails of your choice
+Small Parties — $400, up to 30 guests, 3 signature cocktails of your choice
 Bartending Only — $60/hr, 3-hour minimum, you supply everything, we bring the pour
 
 You supply the alcohol — every package includes full bar setup and clean-up. Extra cocktails, extra hours, and custom signage all available as add-ons.
