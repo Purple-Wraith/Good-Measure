@@ -573,6 +573,15 @@ section { padding: var(--gap-section) 0; }
   text-align: center;
   padding: 2rem 3rem;
 }
+.social-list-double {
+  grid-template-columns: repeat(2, 1fr);
+  justify-items: center;
+}
+.social-list-double .social-item {
+  align-items: center;
+  text-align: center;
+  padding: 2rem 3rem;
+}
 .social-platform {
   font-family: var(--display);
   font-size: 1.3rem;
